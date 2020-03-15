@@ -5,3 +5,4 @@
 ## 2020-02-20 16:29:00 - feat(build): implement build module
 ## 2020-02-29 22:23:04 - feat(docs): create docs handler (6/20)
 ## 2020-03-14 16:03:55 - feat(alert): implement alert feature (9/20)
+## 2020-03-15 22:10:04 - feat(data): add data endpoint (18/20)
