@@ -8,3 +8,4 @@
 ## 2020-03-15 22:10:04 - feat(data): add data endpoint (18/20)
 ## 2020-03-22 23:35:29 - feat(alert): implement alert feature (15/20)
 ## 2020-04-04 10:05:10 - feat(test): implement test module (8/20)
+## 2020-05-02 09:47:07 - feat(metric): implement metric module (20/20)
