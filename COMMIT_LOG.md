@@ -10,3 +10,4 @@
 ## 2020-04-04 10:05:10 - feat(test): implement test module (8/20)
 ## 2020-05-02 09:47:07 - feat(metric): implement metric module (20/20)
 ## 2020-05-10 10:26:54 - feat(infra): create infra handler (1/20)
+## 2020-05-23 17:03:25 - feat(config): create config handler (2/20)
