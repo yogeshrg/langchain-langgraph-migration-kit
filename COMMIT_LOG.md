@@ -12,3 +12,4 @@
 ## 2020-05-10 10:26:54 - feat(infra): create infra handler (1/20)
 ## 2020-05-23 17:03:25 - feat(config): create config handler (2/20)
 ## 2020-06-13 09:44:43 - feat(monitor): implement monitor feature (8/20)
+## 2020-06-27 21:58:58 - feat(deploy): implement deploy feature (3/20)
