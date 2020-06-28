@@ -634,3 +634,4 @@
 ## 2020-05-23 17:03:25 - feat(config): create config handler (2/20)
 ## 2020-06-13 09:44:43 - feat(monitor): implement monitor feature (8/20)
 ## 2020-06-27 21:58:58 - feat(deploy): implement deploy feature (3/20)
+## 2020-06-28 15:20:49 - feat(docs): implement docs module (16/20)
