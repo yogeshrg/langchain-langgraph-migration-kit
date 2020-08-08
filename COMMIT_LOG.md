@@ -845,3 +845,4 @@
 ## 2020-07-16 23:58:26 - feat(worker): implement worker module
 ## 2020-07-26 23:07:53 - feat(docs): implement docs feature (13/20)
 ## 2020-08-01 20:15:10 - feat(test): add test support (7/20)
+## 2020-08-08 23:39:32 - feat(deploy): create deploy handler (13/20)
