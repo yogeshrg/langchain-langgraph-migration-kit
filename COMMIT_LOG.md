@@ -640,3 +640,4 @@
 ## 2020-08-01 20:15:10 - feat(test): add test support (7/20)
 ## 2020-08-08 23:39:32 - feat(deploy): create deploy handler (13/20)
 ## 2020-08-12 22:22:34 - feat(api): implement api feature
+## 2020-08-30 12:44:51 - feat(api): add api endpoint (13/20)
