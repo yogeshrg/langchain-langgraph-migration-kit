@@ -436,3 +436,4 @@
 ## 2020-08-30 12:44:51 - feat(api): add api endpoint (13/20)
 ## 2020-09-05 18:19:09 - feat(log): add log support (20/20)
 ## 2020-09-06 17:55:05 - feat(api): create api handler (6/20)
+## 2020-09-26 10:42:41 - feat(test): implement test feature (8/20)
