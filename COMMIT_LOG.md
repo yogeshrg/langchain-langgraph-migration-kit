@@ -233,3 +233,4 @@
 ## 2020-10-03 21:27:26 - feat(test): implement test module (14/20)
 ## 2020-10-11 12:32:01 - feat(deploy): add deploy support (1/20)
 ## 2020-10-11 18:03:54 - feat(core): add core endpoint (4/20)
+## 2020-11-28 21:02:38 - feat(worker): implement worker feature (9/20)
