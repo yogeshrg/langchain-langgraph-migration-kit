@@ -858,3 +858,4 @@
 ## 2020-11-29 17:35:54 - feat(docs): create docs handler (16/20)
 ## 2020-12-20 19:51:27 - feat(ui): implement ui module (9/20)
 ## 2021-01-03 14:31:53 - feat(core): implement core feature (14/20)
+## 2021-01-03 19:33:36 - feat(monitor): implement monitor module (6/20)
