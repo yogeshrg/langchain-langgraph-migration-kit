@@ -236,3 +236,4 @@
 ## 2020-11-28 21:02:38 - feat(worker): implement worker feature (9/20)
 ## 2020-11-29 17:35:54 - feat(docs): create docs handler (16/20)
 ## 2020-12-20 19:51:27 - feat(ui): implement ui module (9/20)
+## 2021-01-03 14:31:53 - feat(core): implement core feature (14/20)
