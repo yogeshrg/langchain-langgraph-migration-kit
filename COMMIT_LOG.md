@@ -652,3 +652,4 @@
 ## 2020-12-20 19:51:27 - feat(ui): implement ui module (9/20)
 ## 2021-01-03 14:31:53 - feat(core): implement core feature (14/20)
 ## 2021-01-03 19:33:36 - feat(monitor): implement monitor module (6/20)
+## 2021-01-04 23:51:06 - feat(security): add security support
