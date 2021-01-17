@@ -653,3 +653,4 @@
 ## 2021-01-03 14:31:53 - feat(core): implement core feature (14/20)
 ## 2021-01-03 19:33:36 - feat(monitor): implement monitor module (6/20)
 ## 2021-01-04 23:51:06 - feat(security): add security support
+## 2021-01-17 11:07:54 - feat(worker): add worker support (13/20)
