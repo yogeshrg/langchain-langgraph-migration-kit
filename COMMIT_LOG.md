@@ -861,3 +861,4 @@
 ## 2021-01-03 19:33:36 - feat(monitor): implement monitor module (6/20)
 ## 2021-01-04 23:51:06 - feat(security): add security support
 ## 2021-01-17 11:07:54 - feat(worker): add worker support (13/20)
+## 2021-01-31 11:49:30 - feat(metric): implement metric feature (4/20)
