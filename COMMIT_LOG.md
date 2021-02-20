@@ -242,3 +242,4 @@
 ## 2021-01-17 11:07:54 - feat(worker): add worker support (13/20)
 ## 2021-01-31 11:49:30 - feat(metric): implement metric feature (4/20)
 ## 2021-02-07 23:13:56 - feat(infra): implement infra feature (6/20)
+## 2021-02-20 17:38:26 - feat(alert): create alert handler (19/20)
