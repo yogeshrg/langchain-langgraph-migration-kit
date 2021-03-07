@@ -38,3 +38,4 @@
 ## 2021-02-20 17:38:26 - feat(alert): create alert handler (19/20)
 ## 2021-02-20 20:07:02 - feat(deploy): add deploy endpoint (11/20)
 ## 2021-02-21 10:29:17 - feat(queue): add queue support (9/20)
+## 2021-03-07 11:04:10 - feat(queue): create queue handler (1/20)
