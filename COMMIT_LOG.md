@@ -41,3 +41,4 @@
 ## 2021-03-07 11:04:10 - feat(queue): create queue handler (1/20)
 ## 2021-03-13 13:04:59 - feat(metric): create metric handler (7/20)
 ## 2021-03-13 13:50:39 - feat(deploy): create deploy handler (8/20)
+## 2021-04-25 21:46:05 - feat(monitor): add monitor endpoint (12/20)
