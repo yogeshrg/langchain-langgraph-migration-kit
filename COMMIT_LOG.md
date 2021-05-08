@@ -871,3 +871,4 @@
 ## 2021-03-13 13:50:39 - feat(deploy): create deploy handler (8/20)
 ## 2021-04-25 21:46:05 - feat(monitor): add monitor endpoint (12/20)
 ## 2021-05-02 11:02:14 - feat(db): implement db feature (20/20)
+## 2021-05-08 12:42:41 - feat(security): add security support (1/20)
