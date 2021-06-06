@@ -459,3 +459,4 @@
 ## 2021-05-02 11:02:14 - feat(db): implement db feature (20/20)
 ## 2021-05-08 12:42:41 - feat(security): add security support (1/20)
 ## 2021-05-09 20:16:24 - feat(cache): add cache support (16/20)
+## 2021-06-06 19:36:24 - feat(core): implement core feature (3/20)
