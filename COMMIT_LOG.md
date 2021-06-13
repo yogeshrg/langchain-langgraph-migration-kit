@@ -668,3 +668,4 @@
 ## 2021-05-09 20:16:24 - feat(cache): add cache support (16/20)
 ## 2021-06-06 19:36:24 - feat(core): implement core feature (3/20)
 ## 2021-06-12 23:21:38 - feat(model): implement model feature (16/20)
+## 2021-06-13 22:22:58 - feat(worker): add worker support (13/20)
