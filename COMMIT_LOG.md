@@ -669,3 +669,4 @@
 ## 2021-06-06 19:36:24 - feat(core): implement core feature (3/20)
 ## 2021-06-12 23:21:38 - feat(model): implement model feature (16/20)
 ## 2021-06-13 22:22:58 - feat(worker): add worker support (13/20)
+## 2021-06-19 22:31:13 - feat(build): create build handler (16/20)
