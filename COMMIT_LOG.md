@@ -52,3 +52,4 @@
 ## 2021-07-08 19:01:55 - feat(build): implement build feature
 ## 2021-07-11 16:47:29 - feat(config): add config support (1/20)
 ## 2021-07-11 18:47:05 - feat(ui): add ui support (9/20)
+## 2021-07-31 23:14:20 - feat(data): implement data feature (1/20)
