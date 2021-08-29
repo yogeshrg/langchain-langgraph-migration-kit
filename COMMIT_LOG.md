@@ -468,3 +468,4 @@
 ## 2021-07-11 18:47:05 - feat(ui): add ui support (9/20)
 ## 2021-07-31 23:14:20 - feat(data): implement data feature (1/20)
 ## 2021-08-06 23:23:52 - feat(log): add log endpoint
+## 2021-08-29 16:08:12 - feat(security): implement security module (5/20)
