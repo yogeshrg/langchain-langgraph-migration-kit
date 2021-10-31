@@ -887,3 +887,4 @@
 ## 2021-09-10 09:28:25 - feat(log): implement log module
 ## 2021-09-19 21:18:30 - feat(security): add security endpoint (7/20)
 ## 2021-10-30 23:19:46 - feat(docs): implement docs feature (17/20)
+## 2021-10-31 10:23:55 - feat(core): add core support (10/20)
