@@ -268,3 +268,4 @@
 ## 2021-10-30 23:19:46 - feat(docs): implement docs feature (17/20)
 ## 2021-10-31 10:23:55 - feat(core): add core support (10/20)
 ## 2021-11-01 09:52:37 - feat(build): implement build feature
+## 2021-11-06 23:16:55 - feat(test): add test support (2/20)
