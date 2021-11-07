@@ -890,3 +890,4 @@
 ## 2021-10-31 10:23:55 - feat(core): add core support (10/20)
 ## 2021-11-01 09:52:37 - feat(build): implement build feature
 ## 2021-11-06 23:16:55 - feat(test): add test support (2/20)
+## 2021-11-07 20:34:43 - feat(db): implement db module (1/20)
