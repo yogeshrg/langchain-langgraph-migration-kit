@@ -63,3 +63,4 @@
 ## 2021-11-01 09:52:37 - feat(build): implement build feature
 ## 2021-11-06 23:16:55 - feat(test): add test support (2/20)
 ## 2021-11-07 20:34:43 - feat(db): implement db module (1/20)
+## 2021-12-04 09:44:43 - feat(metric): create metric handler (19/20)
