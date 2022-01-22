@@ -479,3 +479,4 @@
 ## 2021-11-07 20:34:43 - feat(db): implement db module (1/20)
 ## 2021-12-04 09:44:43 - feat(metric): create metric handler (19/20)
 ## 2022-01-16 17:15:16 - feat(queue): implement queue feature (15/20)
+## 2022-01-22 16:51:04 - feat(ui): create ui handler (13/20)
