@@ -898,3 +898,4 @@
 ## 2022-01-23 23:00:24 - feat(alert): implement alert module (10/20)
 ## 2022-01-29 18:25:48 - feat(ci): implement ci feature (8/20)
 ## 2022-02-06 11:30:13 - feat(core): implement core module (17/20)
+## 2022-02-10 18:32:17 - feat(test): add test support
