@@ -692,3 +692,4 @@
 ## 2022-01-29 18:25:48 - feat(ci): implement ci feature (8/20)
 ## 2022-02-06 11:30:13 - feat(core): implement core module (17/20)
 ## 2022-02-10 18:32:17 - feat(test): add test support
+## 2022-02-13 09:40:24 - feat(cache): implement cache feature (17/20)
