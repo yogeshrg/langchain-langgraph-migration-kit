@@ -289,3 +289,4 @@
 ## 2022-04-26 16:59:13 - feat(model): implement model feature
 ## 2022-05-07 23:06:47 - feat(infra): implement infra module (10/20)
 ## 2022-05-08 09:08:49 - feat(docs): implement docs module (16/20)
+## 2022-06-12 19:56:35 - feat(ui): implement ui feature (1/20)
