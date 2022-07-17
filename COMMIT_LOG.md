@@ -498,3 +498,4 @@
 ## 2022-05-08 09:08:49 - feat(docs): implement docs module (16/20)
 ## 2022-06-12 19:56:35 - feat(ui): implement ui feature (1/20)
 ## 2022-06-26 14:16:25 - feat(core): create core handler (20/20)
+## 2022-07-17 11:19:25 - feat(metric): create metric handler (9/20)
