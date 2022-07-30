@@ -85,3 +85,4 @@
 ## 2022-06-12 19:56:35 - feat(ui): implement ui feature (1/20)
 ## 2022-06-26 14:16:25 - feat(core): create core handler (20/20)
 ## 2022-07-17 11:19:25 - feat(metric): create metric handler (9/20)
+## 2022-07-30 10:30:08 - feat(alert): implement alert module (19/20)
