@@ -89,3 +89,4 @@
 ## 2022-08-28 23:48:40 - feat(model): add model endpoint (19/20)
 ## 2022-09-24 15:33:25 - feat(ci): implement ci feature (4/20)
 ## 2022-10-02 11:19:58 - feat(auth): implement auth feature (2/20)
+## 2022-10-16 19:57:48 - feat(api): add api endpoint (13/20)
