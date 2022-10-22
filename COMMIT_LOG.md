@@ -90,3 +90,4 @@
 ## 2022-09-24 15:33:25 - feat(ci): implement ci feature (4/20)
 ## 2022-10-02 11:19:58 - feat(auth): implement auth feature (2/20)
 ## 2022-10-16 19:57:48 - feat(api): add api endpoint (13/20)
+## 2022-10-22 18:32:53 - feat(security): implement security module (13/20)
