@@ -305,3 +305,4 @@
 ## 2022-12-11 09:06:52 - feat(docs): create docs handler (4/20)
 ## 2022-12-11 11:26:48 - feat(security): add security endpoint (19/20)
 ## 2022-12-11 17:03:34 - feat(config): implement config module (11/20)
+## 2022-12-15 20:12:27 - feat(docs): create docs handler
