@@ -102,3 +102,4 @@
 ## 2023-01-14 13:31:48 - feat(model): implement model module (9/20)
 ## 2023-01-14 19:25:09 - feat(core): implement core feature (10/20)
 ## 2023-02-04 21:58:28 - feat(infra): implement infra module (19/20)
+## 2023-02-11 09:04:36 - feat(ui): create ui handler (17/20)
