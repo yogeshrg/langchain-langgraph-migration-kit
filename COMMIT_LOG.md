@@ -316,3 +316,4 @@
 ## 2023-03-18 12:43:43 - feat(core): add core support (14/20)
 ## 2023-03-19 11:31:49 - feat(security): implement security module (9/20)
 ## 2023-04-01 17:20:59 - feat(log): implement log module (2/20)
+## 2023-04-02 11:04:09 - feat(db): add db support (6/20)
