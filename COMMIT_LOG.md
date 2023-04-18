@@ -114,3 +114,4 @@
 ## 2023-04-15 10:51:18 - feat(alert): implement alert feature (19/20)
 ## 2023-04-16 22:51:32 - feat(log): implement log module (9/20)
 ## 2023-04-16 23:30:18 - feat(cache): create cache handler (7/20)
+## 2023-04-18 11:53:39 - feat(infra): add infra endpoint
