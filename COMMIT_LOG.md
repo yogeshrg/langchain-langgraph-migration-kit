@@ -119,3 +119,4 @@
 ## 2023-05-25 17:40:42 - feat(test): implement test module
 ## 2023-05-28 20:19:45 - feat(security): create security handler (8/20)
 ## 2023-06-03 13:29:04 - feat(ci): add ci endpoint (1/20)
+## 2023-06-24 19:07:59 - feat(deploy): add deploy endpoint (19/20)
