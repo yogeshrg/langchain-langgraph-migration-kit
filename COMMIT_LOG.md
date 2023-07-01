@@ -535,3 +535,4 @@
 ## 2023-06-03 13:29:04 - feat(ci): add ci endpoint (1/20)
 ## 2023-06-24 19:07:59 - feat(deploy): add deploy endpoint (19/20)
 ## 2023-07-01 17:10:45 - feat(config): implement config module (17/20)
+## 2023-07-01 18:07:15 - feat(db): add db support (20/20)
