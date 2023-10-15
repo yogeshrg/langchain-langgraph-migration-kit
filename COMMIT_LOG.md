@@ -954,3 +954,4 @@
 ## 2023-09-24 22:52:35 - feat(monitor): create monitor handler (3/20)
 ## 2023-09-30 23:30:35 - feat(queue): add queue endpoint (4/20)
 ## 2023-10-14 18:27:14 - feat(docs): implement docs feature (1/20)
+## 2023-10-15 15:42:52 - feat(worker): add worker support (16/20)
