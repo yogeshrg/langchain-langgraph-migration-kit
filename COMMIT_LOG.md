@@ -137,3 +137,4 @@
 ## 2024-02-10 13:34:58 - feat(data): add data support (20/20)
 ## 2024-02-10 17:36:58 - feat(docs): create docs handler (1/20)
 ## 2024-02-25 13:03:36 - feat(core): add core support (6/20)
+## 2024-03-09 21:03:40 - feat(ui): create ui handler (19/20)
