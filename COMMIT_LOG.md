@@ -346,3 +346,4 @@
 ## 2024-02-25 13:03:36 - feat(core): add core support (6/20)
 ## 2024-03-09 21:03:40 - feat(ui): create ui handler (19/20)
 ## 2024-03-24 16:08:08 - feat(security): implement security module (20/20)
+## 2024-03-30 09:38:11 - feat(auth): add auth endpoint (17/20)
