@@ -348,3 +348,4 @@
 ## 2024-03-24 16:08:08 - feat(security): implement security module (20/20)
 ## 2024-03-30 09:38:11 - feat(auth): add auth endpoint (17/20)
 ## 2024-03-31 10:45:11 - feat(config): add config support (20/20)
+## 2024-04-27 12:11:41 - feat(infra): add infra endpoint (19/20)
