@@ -557,3 +557,4 @@
 ## 2024-03-31 10:45:11 - feat(config): add config support (20/20)
 ## 2024-04-27 12:11:41 - feat(infra): add infra endpoint (19/20)
 ## 2024-04-28 19:02:39 - feat(model): add model endpoint (15/20)
+## 2024-05-25 14:24:31 - feat(security): implement security module (11/20)
