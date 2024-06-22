@@ -146,3 +146,4 @@
 ## 2024-05-25 14:24:31 - feat(security): implement security module (11/20)
 ## 2024-06-02 10:19:46 - feat(infra): add infra endpoint (6/20)
 ## 2024-06-08 13:26:38 - feat(config): implement config module (19/20)
+## 2024-06-22 14:34:45 - feat(deploy): implement deploy module (6/20)
