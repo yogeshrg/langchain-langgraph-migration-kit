@@ -148,3 +148,4 @@
 ## 2024-06-08 13:26:38 - feat(config): implement config module (19/20)
 ## 2024-06-22 14:34:45 - feat(deploy): implement deploy module (6/20)
 ## 2024-06-30 14:09:02 - feat(deploy): implement deploy feature (20/20)
+## 2024-07-22 09:00:31 - feat(log): add log support
