@@ -565,3 +565,4 @@
 ## 2024-07-22 09:00:31 - feat(log): add log support
 ## 2024-07-28 16:14:18 - feat(security): create security handler (4/20)
 ## 2024-08-13 15:42:40 - feat(security): add security endpoint
+## 2024-08-18 13:51:16 - feat(worker): add worker endpoint (19/20)
