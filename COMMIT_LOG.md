@@ -570,3 +570,4 @@
 ## 2024-09-07 20:24:35 - feat(auth): implement auth feature (7/20)
 ## 2024-09-28 18:01:45 - feat(monitor): implement monitor feature (17/20)
 ## 2024-10-05 20:20:38 - feat(security): implement security feature (8/20)
+## 2024-10-31 13:50:56 - feat(infra): add infra endpoint
