@@ -778,3 +778,4 @@
 ## 2024-09-28 18:01:45 - feat(monitor): implement monitor feature (17/20)
 ## 2024-10-05 20:20:38 - feat(security): implement security feature (8/20)
 ## 2024-10-31 13:50:56 - feat(infra): add infra endpoint
+## 2024-12-15 19:28:29 - feat(alert): add alert support (1/20)
