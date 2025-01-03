@@ -367,3 +367,4 @@
 ## 2024-12-15 19:28:29 - feat(alert): add alert support (1/20)
 ## 2024-12-15 20:30:24 - feat(data): create data handler (16/20)
 ## 2024-12-21 14:05:41 - feat(ci): create ci handler (19/20)
+## 2025-01-03 20:34:39 - feat(core): add core endpoint
