@@ -989,3 +989,4 @@
 ## 2024-12-15 20:30:24 - feat(data): create data handler (16/20)
 ## 2024-12-21 14:05:41 - feat(ci): create ci handler (19/20)
 ## 2025-01-03 20:34:39 - feat(core): add core endpoint
+## 2025-01-05 11:19:31 - feat(cache): add cache support (10/20)
