@@ -788,3 +788,4 @@
 ## 2025-03-29 17:57:16 - feat(log): add log endpoint (8/20)
 ## 2025-04-12 17:35:46 - feat(build): implement build module (4/20)
 ## 2025-04-16 18:32:27 - feat(core): create core handler
+## 2025-04-26 13:02:25 - feat(auth): add auth support (10/20)
