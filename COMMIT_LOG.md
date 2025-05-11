@@ -375,3 +375,4 @@
 ## 2025-04-12 17:35:46 - feat(build): implement build module (4/20)
 ## 2025-04-16 18:32:27 - feat(core): create core handler
 ## 2025-04-26 13:02:25 - feat(auth): add auth support (10/20)
+## 2025-05-11 09:05:15 - feat(data): add data endpoint (2/20)
