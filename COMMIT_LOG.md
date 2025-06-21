@@ -584,3 +584,4 @@
 ## 2025-04-26 13:02:25 - feat(auth): add auth support (10/20)
 ## 2025-05-11 09:05:15 - feat(data): add data endpoint (2/20)
 ## 2025-05-25 23:52:26 - feat(cache): implement cache module (5/20)
+## 2025-06-21 09:02:46 - feat(metric): add metric support (7/20)
