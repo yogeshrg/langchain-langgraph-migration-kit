@@ -185,3 +185,4 @@
 ## 2025-11-16 16:31:42 - feat(auth): add auth support (5/20)
 ## 2025-11-22 09:50:00 - feat(monitor): create monitor handler (8/20)
 ## 2025-11-22 13:34:16 - feat(alert): create alert handler (7/20)
+## 2025-12-06 13:26:27 - feat(metric): add metric endpoint (8/20)
